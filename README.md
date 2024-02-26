@@ -16,6 +16,7 @@
 
 <div align="center">
   <p> # Stats do perfil perdido </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosedu2001&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedu2001&layout=compact&theme=yeblu&hide=jupyter%20notebook"/>
 </div>
   
