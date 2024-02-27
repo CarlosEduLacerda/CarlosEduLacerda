@@ -1,7 +1,7 @@
 ### Aoba 👋
 ### Me chamo Carlos Eduardo Lacerda Silva
 
-- 📖 Atualmente cursando Engenharia da Computação na Universidade de Sorocaba (UNISO)
+- 📖 Atualmente cursando Engenharia da Computação na Universidade de Sorocaba (UNISO) 2021 - 2025
 - 🎵 A todo momento ouvindo uma boa música
 - ⚡ Como hobbies tenho: tocar piano/teclado 🎹, jogar com a galera 🕹️, assitir filmes/séries 🍿 e resolver puzzles/cubos mágicos 🎲
 - 💻 Constantemente à procura de novos desafios e novas oportunidades
