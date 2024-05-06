@@ -5,6 +5,7 @@
 - 🎵 A todo momento ouvindo uma boa música
 - ⚡ Como hobbies tenho: tocar piano/teclado 🎹, jogar com a galera 🕹️, assitir filmes/séries 🍿 e resolver puzzles/cubos mágicos 🎲
 - 💻 Constantemente à procura de novos desafios e novas oportunidades
+- 🤖 Estudando RPA -> Ferramentas: BotCity, PowerAutomate e UiPath
 
 <div align="center">
   <a href="https://github.com/carlosedulacerda">
